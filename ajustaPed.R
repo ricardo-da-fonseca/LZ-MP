@@ -78,4 +78,4 @@ function(ped,arquivo.saida="pedigree3cols.txt"){
 		}
 	}
 }
-
+#Teste
